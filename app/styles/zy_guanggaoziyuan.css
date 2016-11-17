@@ -1,0 +1,21 @@
+*{margin:0;padding:0;font-family:"微软雅黑";text-decoration: none;}
+img{border:0;}
+.zy_main{width:100%;background:#f9f9f9;}
+.zy_banner{width: 100%; height: 350px;}
+.zy_contain{width:1200px;margin:0 auto;height:1050px;}
+.zy_contain_text{width:100%;height:220px;text-align: center;}
+.zy_contain_text p {font-size: 16px;margin-bottom:18px;}
+.zy_contain_text h3{font-size: 36px;margin-top:90px;margin-bottom:22px;}
+.zy_colum{width:1200px;margin-bottom:105px;}
+.zy_padding{padding-right: 10px;padding-left: 10px;float:left;}
+.xx1{margin-bottom:20px;}
+.xx2{margin-bottom:20px;}
+.xx3{margin-bottom:20px;}
+.zy_columa{width:378px;height:364px;border:1px solid #efefef;display:block;text-decoration:none;color:#000;background:url(../images/zy-youjian.gif);}
+.zy-a1{margin:36px 0px 39px 38px;}
+.zy_columa h3{font-size: 26px;line-height: 1;margin-bottom: 20px;margin-left:38px;}
+.zy_columa p{font-size: 14px;line-height: 2;padding-bottom: 10px;margin-left:38px;margin-right:38px;}
+.zy-youjian{float:right;margin-right:38px;margin-top:25px;display:block;width:32px;height:32px;}
+
+
+    

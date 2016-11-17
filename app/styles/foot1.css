@@ -1,0 +1,68 @@
+*{margin:0px;padding:0px;}
+input{outline:none;}
+li{list-style: none;}
+s{text-decoration: none;}
+a{text-decoration: none;}
+.tzx-qq{width:1349px;height:1000px;background: #eaeaea; clear:both;}
+.tzx-qq-m{width:1200px;height:700px;background: #eaeaea;margin:0 auto;border-bottom: 1px solid #c9caca;overflow: hidden;}
+.tzx-qq-le{width:550px;height:695px;float: left;text-align: center;}
+.tzx-g{font-size: 24px;margin:0 auto;margin-top: 95px;}
+.tzx-qq-le span{font-size: 12px;margin-top:10px;display: block;color: #666}
+.tzx-qq-le .tzx-qi1{width:360px;height:330px;margin:45px auto;}
+.tzx-bo{width:421px;height:50px;border:1px solid #e1e0e0;background: white;overflow:hidden;}
+.tzx-bo b{float:left;width:50px;height:50px;background:url("../images/tx-12.jpg");display: block;}
+.tzx-bo input{width:365px;height:50px;border:none;float: left;}
+.tzx-bo1{width:421px;height:50px;border:1px solid #e1e0e0;background: white;overflow:hidden;margin-top: 50px;}
+.tzx-bo1 b{float:left;width:50px;height:50px;height:50px;background:url("../images/tx-14.jpg");display: block;}
+.tzx-bo1 input{width:365px;height:50px;border:none;float: left;}
+.tzx-bo3{width:421px;height:52px;border:1px solid #e1e0e0;background: white;margin-top: 50px;}
+.tzx-bo3 b{float:left;width:50px;height:50px;height:50px;background:url("../images/tx-15.jpg");display: block;}
+.tzx-bo3 input{width:365px;height:50px;border:none;float: left;}
+
+.tzx-bo2{width:421px;height:52px;border:1px solid #e1e0e0;background: white;margin-top: 50px;}
+.tzx-bo2 b{float:left;width:50px;height:50px;height:50px;background:url("../images/tx-13.jpg");display: block;}
+.tzx-bo2 input{width:365px;height:50px;border:none;float: left;}
+.tzx-o{color: #666;font-size:14px;width:873px;height:20px;overflow:hidden;float: left;margin-top: 15px;}
+.tzx-o input{display:block;float: left;width:30px;height:20px;}
+.tzx-o span{display: block;margin:0px;width:100px;height:20px;float:left;}
+.tzx-qing{font-size:12px;color:red;display: block;width:100px;height:20px;float:right;margin-right: -65px;display: none;}
+.tzx-qing1{font-size: 12px;color:red;width:200px;height:20px;display: block;float: right;margin-right: -85px;display: none;}
+.tzx-yuu{width:180px;height:50px;border:1px solid #008de8;margin:80px auto;line-height: 50px;text-align: center;}
+.tzx-yuu a{color: #008de8;}
+.tzx-qq-ri{width:550px;height:695px;float:right;text-align: center;}
+.tzx-qq-ri .tzx-g{font-size: 24px;margin-top: 95px;}
+.tzx-qq-ri .tzx-tong{font-size: 12px;margin-top:10px;display: block;color: #666}
+.tzx-qq-ri .tzx-tu{width:84px;height:85px;display: block;margin:70px auto;}
+.tzx-qq-ri .tzx-dian{font-size: 40px;color: #008de8;}
+.tzx-qq-ri .tzx-wo{margin:0 auto;width:550px;height:60px;font-size: 12px;color: #666;line-height: 60px;}
+
+.tx-zhu{width:1200px;height:250px;margin:0 auto;text-align: center;}
+.tx-qi{width:873px;height:230px;margin:0 auto;}
+
+.tx-yu{width:300px;height:50px;border:1px solid #008de8;margin:0 auto;line-height: 50px;text-align: center;}
+.tx-yu a{color: #008de8;}
+
+.tongzixin{clear:both;}
+.tx-zhu p{font-size: 33px;margin-top: 55px;}
+.tx-zhu span{display:block;width:510px;height:60px;background: #008de8;color: white;font-size: 18px;text-align:center;line-height: 60px;margin:40px 0 0 347px;}
+.tx-zhu a{margin-top: 40px;display: block;}
+.tx-tubiao{width:210px;height:260px;margin-top: 90px;float: left;}
+.tx-gug{margin-top: 90px;float: left;margin-left: 195px;} 
+.tx-gug h3{color: #bdbdbd;font-size: 16px;}
+.tx-wo h3{color: #bdbdbd;font-size: 16px;}
+.tx-gug ul{font-size: 12px;margin-top:10px;}
+.tx-gug ul li {margin-top: 10px}
+.tx-gug ul li a{color: #666;}
+.tx-wo{float:left;margin:90px 0 0 240px;}
+.tx-wo span{font-size: 12px;color:#666;display: block; margin-top:20px;}
+.tx-wo img{display: block;margin-top: 20px;}
+.tx-fo{width:100%;height: 410px;background: #282828;overflow: hidden;}
+.tx-ff{width:1200px;height:351px;background: #282828;border-bottom:1px solid #464646;margin:0 auto;}
+.tx-gu{width:1200px;height:60px;margin:0 auto;font-size: 12px;line-height: 60px;color: #666}
+.tx-gu ul{float: left;}
+.tx-gu p{float: right;}
+.tx-gu p span{margin-right:20px;}
+.tx-gu ul li{float: left;margin-left:20px;}
+.tx-gu a{color: #666}
+.tx-gu a:hover{color: #edecec}
+.tx-gug ul li a:hover{color:#858484;}

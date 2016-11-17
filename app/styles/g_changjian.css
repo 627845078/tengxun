@@ -1,0 +1,65 @@
+*{font-family: "微软雅黑"}
+body{background: #f9f9f9;}
+body,p,span,b,ul,li,h4{margin:0;padding:0;}
+ul,li{list-style: none;}
+a{text-decoration: none;}
+
+
+.gx_huodong_header{width:100%;height:102px;}
+.gx_huodong_headers{width:1200px;height:102px;margin:0 auto;line-height: 102px;}
+.gx_huodong_headers a{float: left;width:80px;height:24px;color:#008de8;text-align: center;}
+.gx_huodong_headers b{float: left;width:10px;height:24px;margin:0 6px 0 6px;color:#666666;text-align: center;}
+.gx_huodong_headers span{float: left;width:80px;height:24px;color:#666666;text-align: center;}
+
+.gx_huodong_content{width:100%;margin-bottom: 40px;vertical-align: baseline;}
+.gx_huodong_content_in{width:1200px;border:1px solid #efefef;margin-left:auto;margin-right:auto;background: #fff;border-radius: 3px;vertical-align: baseline;}
+.gx_huodong_content_in:before{display: table;content: "";}
+.gx_huodong_content_in:after{display: table;content: "";clear: both;}
+.gx_content_left{width:384px;float: left;border-right: 1px solid #efefef;}
+.gx_content_right{width:750px;float: right;padding-left: 45px;padding-right: 20px;}
+.gx_content_p{height:115px;font-size: 20px;line-height: 115px;}
+.gx_con_p{font-size: 15px;}
+.gx_content_span{margin-left: 30px;}
+
+.gx_content_left ul{vertical-align: baseline;}
+.faqx_cats{vertical-align: baseline;border-bottom: 1px solid #efefef;display: list-item;text-align: -webkit-match-parent;}
+.faqx_cats h4{vertical-align: baseline;height:60px;}
+.faqx_cats h4 a{display: block;font-size: 16px;padding:0 24px;line-height: 60px;height: 60px;color:#000;position: relative;}
+.iconx_arrow{width:7px;height:14px;position: absolute;right: 16px;top:50%;margin-top: -7px;transition:all 6s;}
+.iconx_arrow:before{
+	border-color:transparent transparent transparent #ddd;
+	left:3px;
+	content: '';
+	width:0;
+	height:0;
+	border-style: solid;
+	border-width: 7px;
+	position: absolute;
+	top:0;
+	transition:all 6s;}
+.iconx_arrow:after{
+	border-color:transparent transparent transparent #fff;
+	left:0;
+	content: '';
+	width:0;
+	height:0;
+	border-style: solid;
+	border-width: 7px;
+	position: absolute;
+	top:0;
+	transition:all 6s;}
+.faqx_submenu{display:none;background: #efefef;padding:15px 0 15px;vertical-align: baseline;}
+.faqx_item{display: list-item;text-align: -webkit-match-parent;vertical-align: baseline;line-height: 25px;padding-left: 30px;padding-right: 30px;}
+.faqx_item a{font-size:14px;color:#008de8;transition:all .6s cubic-bezier(.19,1,.22,1);vertical-align: baseline;-webkit-transition:all .6s cubic-bezier(.19,1,.22,1);vertical-align: baseline;}
+
+
+
+
+
+
+
+
+
+
+
+

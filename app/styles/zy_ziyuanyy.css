@@ -1,0 +1,64 @@
+*{margin:0;padding:0;font-family:"微软雅黑";}
+.zy6_main{width:100%;background:#f9f9f9;float:left;}
+.zy6_top{width:100%;margin-top:25px;margin-bottom:86px;}
+.zy6_topf{width:1200px;margin:0 auto;}
+.zy6_topf_header{width:100%;height:72px;line-height:72px;border-bottom: 1px solid #d9d9d9;font-size:15px;}
+.zy6_topf_header a{display:block;float:left;text-decoration:none;color:#008de8;}
+.zy6_topf_header a:hover{color:#0966a2;}
+.zy6_topf_header p{color:#666666;}
+.zy6_container {width: 1200px; margin-left: auto; margin-right: auto;height:300px;}
+.zy6_container>h3{font-size: 36px; line-height: 1;color: #000;text-align: center;}
+.zy6_container>p{line-height: 2;font-size: 16px;color: #000; text-align: center; margin-top: 40px;} 
+.zy6_bottom{width:1200px;margin-left: auto;margin-right: auto;background:white;}
+.zy_kong{width:100%;height:90px;}
+.zy6_bottom h3{font-size: 36px;line-height: 1; color: #000;text-align: center;margin-top:90px;}
+.zy6_bottom p{font-size: 16px; color: #000;text-align: center;margin-top: 35px;margin-bottom: 95px;}
+.zy6_w{width:100%;background:white;}
+
+.zy6_con{width:1200px;margin:0 auto;}
+/*zy6_container1_pic*/
+.zy6_contaniner1{width:100%;height:525px;background-image: url(../images/bg-gray.png);background-position: right bottom;background-repeat:no-repeat;margin-top: 90px;}
+.zy6_container1_pic{float:right;background-image: url(../images/bg-phone.png);width: 323px;height: 521px;margin-right:135px;}
+.zy6_container1_paper{background-image: url(../images/app-paper1.jpg);width: 283px;height: 446px;margin-top:75px;background-repeat:no-repeat;margin-left:20px;float:left;}
+.zy6_container1_text{float:left;width:385px;margin-left:135px;margin-top:145px;}
+.zy6_most{font-size: 16px;color: #999;margin-bottom: 12px;}
+.zy6_container1_text h4{font-size: 26px;color: #333; margin-bottom: 30px;}
+.zy6_container1_text p{font-size: 16px;line-height: 2;color: #000;}
+.zy6_yidong{width: 283px;height: 70px;position:relative;margin-top:250px;}
+.zy6_color{background: #008de8;width:100%;height:100%;position:absolute;}
+.zy6_color_pic{width:100%;height:100%;position:absolute;}
+.zy6_xian_top{width:58px;position:absolute;left:226px;top:-4px;-moz-transform:rotate(7deg);-o-transform:rotate(7deg);-webkit-transform:rotate(7deg);-ms-transform:rotate(7deg);}
+.zy6_xian_bottom{width:58px;position:absolute;left:226px;bottom:-4px;-moz-transform:rotate(-7deg);-o-transform:rotate(-7deg);-webkit-transform:rotate(-7deg);-ms-transform:rotate(-7deg);}
+.zy6_xian_top1{width:58px;position:absolute;left:-1px;top:-3px;-moz-transform:rotate(-8deg);-o-transform:rotate(-8deg);-webkit-transform:rotate(-8deg);-ms-transform:rotate(-8deg);}
+.zy6_xian_bottom1{width:58px;position:absolute;left:-1px;bottom:-3px;-moz-transform:rotate(8deg);-o-transform:rotate(8deg);-webkit-transform:rotate(8deg);-ms-transform:rotate(8deg);}
+.xian{display:none;border-top:1px solid #008de8;}
+.xian1{display:none;border-top:1px solid #e72431;}
+
+.zy6_xian_top3{width:58px;position:absolute;left:43px;top:-6px;-moz-transform:rotate(14deg);-o-transform:rotate(14deg);-webkit-transform:rotate(14deg);-ms-transform:rotate(14deg);}
+.zy6_xian_bottom3{width:58px;position:absolute;left:43px;bottom:-6px;-moz-transform:rotate(-14deg);-o-transform:rotate(-14deg);-webkit-transform:rotate(-14deg);-ms-transform:rotate(-14deg);}
+.xian3{display:none;border-top:1px solid #fbc422;}
+/*zy6_container2_pic*/
+.zy6_contaniner2{width:100%;height:525px;background-image: url(../images/bg-gray.png);background-position: right bottom;background-repeat:no-repeat;margin-top: 90px;}
+.zy6_container2_pic{float:left;background-image: url(../images/bg-phone.png);width: 323px;height: 521px;margin-left:135px;}
+.zy6_container2_paper{background-image: url(../images/app-paper2.jpg);width: 283px;height: 446px;margin-top:75px;background-repeat:no-repeat;margin-left:20px;float:left;}
+.zy6_container2_text{float:right;width:385px;margin-right:135px;margin-top:145px;}
+.zy6_container2_text h4{font-size: 26px;color: #333; margin-bottom: 30px;}
+.zy6_container2_text p{font-size: 16px;line-height: 2;color: #000;}
+.zy6_yidong2{width: 283px;height: 78px;position:relative;margin-top:273px;}
+.zy6_color2{background: #e72431;width:100%;height:100%;position:absolute;}
+.zy6_color_pic2{width:100%;height:100%;position:absolute;}
+/*zy6_container3_pic*/
+.zy6_contaniner3{width:100%;height:525px;background-image: url(../images/bg-gray.png);background-position: right bottom;background-repeat:no-repeat;margin-top: 90px;}
+.zy6_container3_pic{float:right;background-image: url(../images/bg-phone.png);width: 323px;height: 521px;margin-right:135px;}
+.zy6_container3_paper{background-image: url(../images/app-paper3.jpg);width: 283px;height: 446px;margin-top:75px;background-repeat:no-repeat;margin-left:20px;float:left;}
+.zy6_container3_text{float:left;width:385px;margin-left:135px;margin-top:145px;}
+.zy6_container3_text h4{font-size: 26px;color: #333; margin-bottom: 30px;}
+.zy6_container3_text p{font-size: 16px;line-height: 2;color: #000;}
+.zy6_yidong3{width: 100px;height: 124px;position:relative;margin-top:60px;}
+.zy6_color3{background: #fbc422;width:100%;height:100%;position:absolute;}
+.zy6_color_pic3{width:100%;height:100%;position:absolute;}
+
+.zy6_color_pic img{width:100%;height:100%;}
+.zy6_color_pic2 img{width:100%;height:100%;}
+.zy6_color_pic3 img{width:100%;height:100%;}
+

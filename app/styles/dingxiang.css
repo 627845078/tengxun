@@ -1,0 +1,89 @@
+*{margin:0px;padding:0px;}
+input{outline:none;}
+li{list-style: none;}
+s,a{text-decoration: none;}
+.g_header{width:100%;height:70px;border-bottom: 1px solid #f1f1f1;padding-top: 7px;}
+.g_heade{width:1200px;height:80px;margin:0 auto;}
+.g_header_in{width:62px;height:56px;float: left;margin-right: 5px;}
+.g_header_it{width:auto;height:46px;float: left;margin-top: 10px;margin-right: 13px;}
+.g_header_it h4{height:24px;line-height:24px;}
+.g_header_ia{width:6px;height:56px;float: left;text-align: center;line-height: 56px;margin-right: 10px;margin-top: 5px;}
+.g_header_ib{width:auto;height:56px;float: left;line-height: 56px;line-height: 56px;color:#008deb;font-size: 20px;}
+.g_header_ic{float: right;margin-right: 15px;margin-top:5px;color:#008de8;}
+.g_header_id{float: right;margin-right: 5px;margin-top: 5px;}
+.g_nav{width:100%;height:64px;border-bottom:1px solid #f1f1f1;}
+.g_nav_in{width: 1200px;height: 64px;margin: 0 auto;}
+.g_nav ul ,.gxl_nav_in ul{width: 800px;height: 64px;vertical-align: baseline;float: left;}
+.g_nav ul li ,.gxl_nav_in ul li{font-weight: inherit;height: 64px;line-height: 64px;width: auto;margin-right: 50px;vertical-align: baseline;float: left;position: relative;}.g_nav a {display: block;color: #333333;width: 100%;text-decoration: none;
+				}
+	.g_nav li,.g_nav a,.gxl_nav_in li,.gxl_nav_in a{color:#333333;text-decoration: none;}
+.g_nav li:hover,.g_nav a:hover ,.gxl_nav_in li:hover,.gxl_nav_in a:hover{color:#008de8;}
+.g_nav ul li:after ,.gxl_nav_in ul li:after{
+				position: absolute;
+				left: 0;
+				bottom: -1px;
+				height: 4px;
+				width: 100%;
+				content: ' ';
+				background-color: #008de8;
+				background-color: transparent\9;
+				-webkit-transform: scaleX(0);
+				transform: scaleX(0);
+				-webkit-transition: all .6s cubic-bezier(.19, 1, .22, 1);
+				transition: all .6s cubic-bezier(.19, 1, .22, 1);
+				transition-property: all;
+				transition-duration: 0.6s;
+				transition-timing-function: cubic-bezier(0.19, 1, 0.22, 1);
+				transition-delay: initial;
+			}
+			.g_nav ul li:hover:after,.gxl_nav_in ul li:hover:after{
+				    transform: scaleX(1);
+    				background-color: #008de8;
+			}
+
+.g_div{display:none;width:104px;height:auto;position: absolute;left:-20px;top:68px;text-align: center;color: #333333;border:1px solid #f1f1f1;background: #fff;z-index:10;}
+.g_div p{height:36px;line-height: 36px;cursor: pointer;background:#fff;}
+.g_div p:hover{color:#008de8;}
+.gxl_nav{width:100%;height:64px;border-bottom: 1px solid #f1f1f1;background: #fff;position: fixed;
+	top:0;left:0;z-index: 999;}
+.gxl_nav_in{width:1200px;height:64px;margin:0 auto;}
+
+
+.g_content{width:100%;height:0px;}
+
+
+.tx-img{width:100%;height:285px;}
+.tx-main{width:100%;height:1100px;background:#f9f9f9;overflow: hidden;}
+.tx-ma{width:1210px;height:1100px;margin:0 auto;}
+.tx-san{width:1210px;height:261px;font-size: 29px;text-align: center;}
+.tx-san .tx-s{margin-top:86px;}
+.tx-san .tx-ss{margin-top:20px;}
+.tx-ji{width:1210px;height:786px;overflow: hidden;}
+.tx-ji h2{font-size: 20px}
+.tx-ji .tx-t{font-size: 14px;margin-top: 25px;}
+.tz-le{width:475px;height:593px;float: left;}
+.tz-ri{width:475px;height:593px;float: left;margin-left:150px;}
+.tz-le li {margin-left:76px;font-size: 12px;color: #666;margin-top: 55px;}
+.tz-le li img{display: block;float: left;}
+.tz-le li b{font-size: 16px;color: black;display: block;margin:7px 0 0 10px;float: left;}
+.tz-le li p{margin:35px 0 0 45px;clear:both;}
+.tz-ri li {margin-left:76px;font-size: 12px;color: #666;margin-top: 55px;}
+.tz-ri li p{margin:35px 0 0 45px;}
+.tz-ri li img{display: block;float: left;}
+.tz-ri li b{font-size: 16px;color: black;display: block;margin:7px 0 0 10px;float: left;}
+.tx-ru{clear:both;margin-top: 10px;}
+.tx-ru a{font-size: 14px;color: #008de8;text-align: center;display: block;}
+.tx-chi{width:100%;height:448px;background: white;}
+.tx-chi-le{float: left;width:602px;height:448px;margin-left:72px;}
+.tx-chi-ri{float: left;}
+.tx-chi-ri img{margin:72px 0 0 150px;width:454px;height:349px;display: block;}
+.tx-chi-le h2{margin-top: 135px;}
+.tx-chi-le p{font-size: 14px;margin-top: 45px;}
+.tx-chi-le span{color: #999;display: block;margin-top: 20px;}
+
+
+.tx-xiang{width:100%;height:448px;background:#f9f9f9;}
+.tx-chi-rr{float: left;}
+.tx-chi-rr h2{margin-top: 135px;}
+.tx-chi-rr p{font-size: 14px;margin-top: 45px;}
+.tx-chi-rr span{color: #999;display: block;margin-top: 20px;}

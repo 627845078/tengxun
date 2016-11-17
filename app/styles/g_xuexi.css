@@ -1,0 +1,78 @@
+*{font-family: "微软雅黑";}
+body{margin: 0;padding: 0;background: #f9f9f9;}
+ul,li,p,a,span{margin: 0;padding: 0;}
+li{list-style: none;}
+a{text-decoration: none;}
+
+.g_huodong_header{width:100%;height:102px;}
+.g_huodong_headers{width:1200px;height:102px;margin:0 auto;line-height: 102px;}
+.g_huodong_headers a{float: left;width:80px;height:24px;color:#008de8;text-align: center;}
+.g_huodong_headers b{float: left;width:10px;height:24px;margin:0 6px 0 6px;color:#666666;text-align: center;}
+.g_huodong_headers span{float: left;width:80px;height:24px;color:#666666;text-align: center;}
+.g_content{height:auto;}
+
+.g_con{width:100%;height:491px;margin-bottom: 40px;}
+.g_con_t{width:1200px;height:491px;margin:0 auto;}
+.g_con_left{width:727px;height:489px;border:1px solid #efefef;position: relative;z-index:10;background: #fff;}
+.g_con_left_heade{width:707px;height:64px;border-bottom: 1px solid #efefef;font-size: 20px;padding-left: 20px;line-height: 64px;}
+.g_con_left_banner{width:727px;height:364px; }
+.g_con_left_banner img{position: absolute;}
+.g_con_tab{width:727px;height:60px;line-height: 60px;}
+.g_con_tab ul li{width:242px;height:60px;float: left;text-align: center;cursor: pointer;}
+.g_con_tab ul li:hover{color: #fff;background: #008de8;}
+
+.g_con_right{width:439px;height:489px;border:1px solid #efefef;float: right;background: #fff;}
+.g_con_right_head{width:399px;height:64px;line-height: 64px;margin: 0 auto;border-bottom: 1px solid #efefef;font-size: 20px;}
+.g_con_right_conde{width:397px;height:78px;margin:0 auto;border-bottom: 1px solid #efefef;padding-top:12px;padding-left: 2px;}
+.g_con_right_conde a{color:#000;line-height: 42px;font-size: 16px;}
+.g_con_right_conde a:hover{color:#008ee8;}
+.g_con_right_conde span{width:20px;height:20px;float: left;margin-right: 10px;}
+.g_con_right_conde p{display: block;width: auto;height:22px;line-height: 22px;float: left;font-size: 14px;color:#666666;}
+.g_con_right_con{width:399px;height:60px;line-height: 60px;text-align: center;}
+.g_con_right_con a{color:#008de8;text-decoration: blink;}
+
+
+.g_tips{width:100%;height:714px;margin-bottom: 40px;}
+.g_tips_in{width:1200px;height:712px;border:1px solid #efefef;background: #fff;margin:0 auto;}
+.g_tips_in_fo{width:1080px;height:70px;margin:0 auto;margin-top: 55px;margin-bottom: 25px;}
+.g_tips_in_fo p{line-height: 28px;font-size: 22px}
+.g_ti{font-size: 16px;line-height: 30px;}
+.g_tips_in_to{width:1080px;height:534px;margin:0 auto;}
+
+.g_l{width:auto;height:280px;float: left;margin-right: 210px;}
+.g_l:nth-child(3){margin-right: 0}
+.g_l2_a1{width:202px;height:40px;margin-bottom: 10px;}
+.g_l2_a1 img{width:auto;height:auto;float: left;margin-right: 6px;}
+.g_l2_a1 p{display:block;float: left;width:auto;height:40px;line-height: 40px;}
+.g_lists{width:auto;height:130px;}
+.g_lists li{height:40px;line-height: 40px;}
+.g_lists li span{width:2px;height:20px;float: left;background: #008de8;margin-top: 8px;margin-right: 7px;}
+.g_lists li a{color:#333;}
+.g_lists li a:hover{color:#008de8;}
+.g_con_left1{width: 727px;height: 489px;border: 1px solid #efefef;position: relative;float: left;background: #fff;}
+
+
+
+
+.g_news{width:100%;height:371px;margin-bottom: 40px;}
+.g_news_in{width:1200px;height:369px;border:1px solid #efefef;margin:0 auto;background: #fff;}
+.g_t2{width:1080px;height:180px;margin:0 auto;}
+.g_t{width:auto;height:180px;float: left;margin-right: 80px;}
+.g_t:nth-child(2){margin-right: 20px;}
+.g_t:nth-child(4){margin-right: 0;}
+.g_t2_a1{width:202px;height:40px;margin-bottom: 10px;}
+.g_t2_a1 img{width:40px;height:40px;float: left;margin-right: 6px;}
+.g_t2_a1 p{display:block;float: left;width:auto;height:40px;line-height: 40px;}
+.g_list{width:auto;height:130px;}
+.g_list li{height:40px;line-height: 40px;}
+.g_list li span{width:2px;height:20px;float: left;background: #008de8;margin-top: 8px;margin-right: 7px;}
+.g_list li a{color:#333;}
+.g_list li a:hover{color:#008de8;}
+
+
+
+
+
+.g_box{width:100%;height:172px;margin-bottom: 40px;}
+.g_box_in{width:1200px;height:170px;border:1px solid #efefef;margin:0 auto;background: #fff;}
+

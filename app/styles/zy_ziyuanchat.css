@@ -1,0 +1,95 @@
+*{margin:0;padding:0;font-family:"微软雅黑";}
+.zy3_main{width:100%;background:#f9f9f9;}
+.zy3_top{width:100%;margin-top:25px;margin-bottom:86px;}
+.zy3_topf{width:1200px;margin:0 auto;}
+.zy3_topf_header{width:100%;height:72px;line-height:72px;border-bottom: 1px solid #d9d9d9;font-size:15px;}
+.zy3_topf_header a{display:block;float:left;text-decoration:none;color:#008de8;}
+.zy3_topf_header a:hover{color:#0966a2;}
+.zy3_topf_header p{color:#666666;}
+.zy3_container{width:1200px;margin:0 auto;}
+.zy3_container h3{font-size: 36px;line-height: 1;color: #000;text-align: center;margin-bottom: 80px;display:block;}
+.zy3_container-a{text-align:center;}
+.zy3_container-a>a{width: 200px;line-height: 60px;margin: 0 6px;background: #bccccf; font-size: 18px;color: #fff; border-radius: 2px;display:inline-block;text-decoration: none;}
+.zy3_container-a>a:nth-child(1){background: #008de8;}
+.zy3_container-word{line-height: 2;font-size: 16px;color: #000;text-align: center;margin-top: 40px;}
+.zy3_container-list{width:930px;margin-left:auto;margin-right:auto;margin-top:67px;margin-bottom:180px;height:320px;}
+.zy3_container-list ul li{list-style: none;float:left;width:50%;text-align: center;}
+.zy3_container-list ul li h4{font-size: 26px;margin: 30px 0 10px;}
+.zy3_imglist2{margin-bottom:20px;}
+.zy3_container-list ul li p{font-size: 16px;line-height: 2;}
+.zy3_xingtai{width:1220px;margin-left:auto;margin-right:auto;clear:both;}
+.zy3-title-small{font-size: 16px;color: #999;text-align: center;margin-bottom: 30px;}
+.zy3-title-big{font-size: 36px; line-height: 1;color: #000;text-align: center;}
+ .zy3_contaniner{width:1200px;margin-top:85px;margin-left:auto;margin-right:auto;}
+/*zy3_container1_pic*/
+.zy3_contaniner1{width:100%;height:525px;background-image: url(../images/bg-gray.png);background-position: right bottom;background-repeat:no-repeat;}
+.zy3_container1_pic{float:right;background-image: url(../images/bg-phone.png);width: 323px;height: 521px;margin-right:135px;}
+.zy3_container1_paper{background-image: url(../images/moments-paper1.jpg);width: 283px;height: 446px;margin-top:75px;background-repeat:no-repeat;margin-left:20px;float:left;}
+.zy3_container1_text{float:left;width:385px;margin-left:135px;margin-top:145px;}
+.zy3_most{font-size: 16px;color: #999;margin-bottom: 12px;}
+.zy3_container1_text h4{font-size: 26px;color: #333; margin-bottom: 30px;}
+.zy3_container1_text p{font-size: 16px;line-height: 2;color: #000;}
+.zy3_yidong{width: 283px;height: 214px;position:relative;margin-top:150px;}
+.zy3_color{background: #008de8;width:100%;height:100%;position:absolute;}
+.zy3_color_pic{width:100%;height:100%;position:absolute;}
+.zy3_xian_top{width:58px;position:absolute;left:227px;top:-14px;-moz-transform:rotate(25deg);-o-transform:rotate(25deg);-webkit-transform:rotate(25deg);-ms-transform:rotate(25deg);}
+.zy3_xian_bottom{width:58px;position:absolute;left:227px;bottom:-14px;-moz-transform:rotate(-25deg);-o-transform:rotate(-25deg);-webkit-transform:rotate(-25deg);-ms-transform:rotate(-25deg);}
+.zy3_xian_top1{width:58px;position:absolute;left:-2px;top:-14px;-moz-transform:rotate(-25deg);-o-transform:rotate(-25deg);-webkit-transform:rotate(-25deg);-ms-transform:rotate(-25deg);}
+.zy3_xian_bottom1{width:58px;position:absolute;left:-2px;bottom:-14px;-moz-transform:rotate(25deg);-o-transform:rotate(25deg);-webkit-transform:rotate(25deg);-ms-transform:rotate(25deg);}
+.xian{display:none;border-top:1px solid #008de8;}
+.xian1{display:none;border-top:1px solid #e72431;}
+/*zy3_container2_pic*/
+.zy3_contaniner2{width:100%;height:525px;background-image: url(../images/bg-gray.png);background-position: right bottom;background-repeat:no-repeat;margin-top: 90px;}
+.zy3_container2_pic{float:left;background-image: url(../images/bg-phone.png);width: 323px;height: 521px;margin-left:135px;}
+.zy3_container2_paper{background-image: url(../images/moments-paper2.jpg);width: 283px;height: 446px;margin-top:75px;background-repeat:no-repeat;margin-left:20px;float:left;}
+.zy3_container2_text{float:right;width:385px;margin-right:135px;margin-top:145px;}
+.zy3_container2_text h4{font-size: 26px;color: #333; margin-bottom: 30px;}
+.zy3_container2_text p{font-size: 16px;line-height: 2;color: #000;}
+.zy3_yidong2{width: 283px;height: 214px;position:relative;margin-top:150px;}
+.zy3_color2{background: #e72431;width:100%;height:100%;position:absolute;}
+.zy3_color_pic2{width:100%;height:100%;position:absolute;}
+.zy3_color_pic img{width:100%;height:100%;}
+.zy3_color_pic2 img{width:100%;height:100%;}
+.zy3_mubiao{width:930px;margin-top:90px;margin-left:auto;margin-right:auto;}
+.zy3_tab{margin: 60px 0;text-align: center; overflow: hidden; position: relative;border-bottom: 1px solid #dfe0e0}
+.title-small{color: #999;text-align: center;margin-bottom: 30px;}
+.title-big{font-size: 36px;line-height: 1;color: #000;text-align: center;}
+.zy3_qiehuan{position:relative;width:930px;height:570px;overflow: hidden;}
+.zy3_swiper{width:3000px;height:570px;position:absolute; }
+.swiper-slide{width:930px;display:block;float:left;}
+.pic{margin-bottom:70px;}
+.zy3_tabqiehuan{width:930px;margin-left:auto;margin-right:auto;height:570px;}
+.diversity-desc{text-align: center;font-size: 16px;margin-bottom: 60px;color: #000;}
+.zy3_tab > a {margin: 0 80px;display: inline-block;font-size: 18px; color: #000;padding: 0 0 12px;position: relative; text-decoration:none;}
+
+/*后添加的*/
+.zy3_active{margin: 0 80px;display: inline-block;font-size: 18px; color: #000;padding: 0 0 12px;position: relative; text-decoration:none;border-bottom: 2px solid #008de8;color:#008de8;}
+.zy3_tab > a:hover{color:#008de8;}
+.zy3_tab > a:after{
+				position: absolute;
+				left: 0;
+				bottom: -1px;
+				height: 4px;
+				width: 100%;
+				content: ' ';	/*css的伪类，清楚底部浮动*/
+				background-color: #008de8;
+				background-color: transparent\9;
+				-webkit-transform: scaleX(0);			/*webkit开源浏览器引擎*/
+				/* transform改变  scaleX通过设置 X 轴的值来定义缩放转换。*/
+				transform: scaleX(0);
+				-webkit-transition: all .6s cubic-bezier(.19, 1, .22, 1);
+				transition: all .6s cubic-bezier(.19, 1, .22, 1);
+				transition-property: all;
+				/*规定设置过渡效果的 CSS 属性的名称。*/
+				transition-duration: 0.6s;
+				/*规定完成过渡效果需要多少秒或毫秒。*/
+				transition-timing-function: cubic-bezier(0.19, 1, 0.22, 1);
+				/*规定速度效果的速度曲线。*/
+				transition-delay: initial;	
+				/*定义过渡效果何时开始。*/
+
+			}
+			.zy3_tab > a:hover:after{
+				    transform: scaleX(1);
+    				background-color: #008de8;
+			}

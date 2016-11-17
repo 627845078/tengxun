@@ -1,0 +1,68 @@
+*{font-family: "微软雅黑"}
+body,p,h4{margin: 0;padding: 0;}
+ul,li{list-style: none;margin:0;padding: 0;}
+a{text-decoration: none;}
+
+.g_header{width:100%;height:70px;border-bottom: 1px solid #f1f1f1;padding-top: 7px;background:#fff;}
+.g_heade{width:1200px;height:80px;margin:0 auto;}
+.g_header_in{width:62px;height:56px;float: left;margin-right: 5px;}
+.g_header_it{width:auto;height:46px;float: left;margin-top: 10px;margin-right: 13px;}
+.g_header_it h4{height:24px;line-height:24px;}
+.g_header_ia{width:6px;height:56px;float: left;text-align: center;line-height: 56px;margin-right: 10px;}
+.g_header_ib{width:auto;height:56px;float: left;line-height: 56px;line-height: 56px;color:#008deb;font-size: 20px;}
+.g_header_ic{float: right;margin-right: 15px;margin-top: 2px;color:#008de8;}
+.g_header_id{float: right;margin-right: 5px;margin-top: 5px;}
+.g_nav{width:100%;height:64px;border-bottom:1px solid #f1f1f1;background:#fff;}
+.g_nav_in{width: 1200px;height: 64px;margin: 0 auto;}
+.g_nav ul ,.gxl_nav_in ul{width: 800px;height: 64px;vertical-align: baseline;float: left;}
+.g_nav ul li ,.gxl_nav_in ul li{font-weight: inherit;height: 64px;line-height: 64px;width: auto;margin-right: 50px;vertical-align: baseline;float: left;position: relative;}
+.g_nav a {display: block;color: #333333;width: 100%;text-decoration: none;
+				/*-webkit-transition: width .6s cubic-bezier(.19, 1, .22, 1);
+				transition: width .6s cubic-bezier(.19, 1, .22, 1);*/}
+.g_nav li,.g_nav a,.gxl_nav_in li,.gxl_nav_in a{color:#333333;text-decoration: none;}
+.g_nav li:hover,.g_nav a:hover ,.gxl_nav_in li:hover,.gxl_nav_in a:hover{color:#008de8;}
+.g_nav ul li:after ,.gxl_nav_in ul li:after{
+				position: absolute;
+				left: 0;
+				bottom: -1px;
+				height: 4px;
+				width: 100%;
+				content: ' ';	/*css的伪类，清楚底部浮动*/
+				background-color: #008de8;
+				background-color: transparent\9;
+				-webkit-transform: scaleX(0);			/*webkit开源浏览器引擎*/
+				/* transform改变  scaleX通过设置 X 轴的值来定义缩放转换。*/
+				transform: scaleX(0);
+				-webkit-transition: all .6s cubic-bezier(.19, 1, .22, 1);
+				transition: all .6s cubic-bezier(.19, 1, .22, 1);
+				transition-property: all;
+				/*规定设置过渡效果的 CSS 属性的名称。*/
+				transition-duration: 0.6s;
+				/*规定完成过渡效果需要多少秒或毫秒。*/
+				transition-timing-function: cubic-bezier(0.19, 1, 0.22, 1);
+				/*规定速度效果的速度曲线。*/
+				transition-delay: initial;	
+				/*定义过渡效果何时开始。*/
+/*  linear		规定以相同速度开始至结束的过渡效果（等于 cubic-bezier(0,0,1,1)）。
+	ease		规定慢速开始，然后变快，然后慢速结束的过渡效果（cubic-bezier(0.25,0.1,0.25,1)）。
+	ease-in		规定以慢速开始的过渡效果（等于 cubic-bezier(0.42,0,1,1)）。
+	ease-out	规定以慢速结束的过渡效果（等于 cubic-bezier(0,0,0.58,1)）。
+	ease-in-out	规定以慢速开始和结束的过渡效果（等于 cubic-bezier(0.42,0,0.58,1)）。
+	cubic-bezier(n,n,n,n)	在 cubic-bezier 函数中定义自己的值。可能的值是 0 至 1 之间的数值。*/
+			}
+			.g_nav ul li:hover:after,.gxl_nav_in ul li:hover:after{
+				    transform: scaleX(1);
+    				background-color: #008de8;
+			}
+
+.g_div{display:none;width:104px;height:auto;position: absolute;left:-20px;top:68px;text-align: center;color: #333333;border:1px solid #f1f1f1;background: #fff;}
+.g_div p{height:36px;line-height: 36px;cursor: pointer;}
+.g_div p:hover{color:#008de8;}
+
+.gxl_nav{width:100%;height:64px;border-bottom: 1px solid #f1f1f1;background: #fff;position: fixed;
+	/*top:expression(eval(document.documentElement.scrollTop));*/top:0;left:0;z-index: 999;}
+.gxl_nav_in{width:1200px;height:64px;margin:0 auto;}
+/*neirong*/
+.tongzixin{width:100%;height:auto;}
+
+.hddb{width: 55px;height: 55px;background: url(../images/g_dingbu.gif) no-repeat;position: fixed;z-index: 999;top: 75%;right: 15%;display: none;}

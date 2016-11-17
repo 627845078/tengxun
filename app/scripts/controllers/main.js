@@ -2,10 +2,10 @@
 
 /**
  * @ngdoc function
- * @name practiceThreeApp.controller:MainCtrl
+ * @name qqpingtaiApp.controller:MainCtrl
  * @description
  * # MainCtrl
- * Controller of the practiceThreeApp
+ * Controller of the qqpingtaiApp
  */
 angular.module('practiceThreeApp')
   .controller('MainCtrl', function () {

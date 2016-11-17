@@ -7,11 +7,11 @@ a,s{text-decoration: none;}
 .tx-an{width:200px;height:121px;font-size: 22px;margin-left: 30px;line-height: 121px;}
 .tx-quan{width:100%;height:auto;background: #f9f9f9}
 .tx-quan .tx-ol{width:1319px;height:65px;margin:0 auto;}
-.tx-ol li{width:300px;height:63px;border:1px solid #e7e7e7;float: left;margin-left: 33px;background: white;color: #666;}
+.tx-ol li{width:300px;height:63px;border:1px solid #e7e7e7;float: left;margin-left: 33px;background: white;color: #666;position:relative;}
 .tx-ol li s{display: block;float: left;margin-left: 22px;font-size: 17px;line-height: 63px;width:200px;height:63px;}
 .tx-ol li:hover{color:#008de8;}
 .tx-ol li span{width:0px;height:0px;overflow: hidden;border:6px solid #999;float:right;display: block;margin-top:30px;border-color:rgb(225,0,0,0.5);border-color:transparent #999;border-right:0;transform:rotate(90deg);margin-right:24px;cursor: pointer;}
-.tx-tou{position:absolute;width:298px;height:auto;background: white;top:593px;line-height:45px;display: none;z-index:999;} 
+.tx-tou{position:absolute;width:298px;height:auto;background: white;top:53px;line-height:45px;display: none;z-index:999;} 
 .tx-tou p{text-indent: 20px;color: #999;}
 .tx-tou p:hover{background: #008de8;color: white;text-indent: 20px;}
 .tx-guang{width:1319px;height:auto;margin:0 auto;margin-top:16px;}
